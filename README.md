@@ -3,4 +3,4 @@ some cpp-game made by me
 
 ## games
 - Snake Game  
-![SnakeUML](./UML/SnakeUML.png)
+![SnakeUML](./UML/SnakeUML.jpg)
