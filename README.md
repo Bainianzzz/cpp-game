@@ -2,5 +2,5 @@
 some cpp-game made by me
 
 ## games
-- Snake Game
+- Snake Game  
 ![SnakeUML](./UML/SnakeUML.png)
